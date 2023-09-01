@@ -23,5 +23,3 @@ Welcome to my GitHub profile! I'm currently learning Django and Terraform.
   <a href="https://www.linkedin.com/in/juan-pablo-gonzalez-trejos-941873174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Feel free to reach out to me on any of these platforms. I'd love to connect with you!
-
