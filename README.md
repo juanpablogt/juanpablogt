@@ -1,6 +1,6 @@
 # Juan Pablo González's GitHub Profile
 
-Welcome to my GitHub profile! I'm currently learning Django and Terraform.
+Welcome to my GitHub profile! I'm currently learning Terraform.
 
 - 😄 Pronouns: he/him
 
