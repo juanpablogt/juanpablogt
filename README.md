@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm currently learning Django and Terraform.
   <img align="center" alt="PabloGT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PabloGT-Django" height="30" width="40" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png">
   <img align="center" alt="PabloGT-Cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img align="center" alt="PabloGT-sv" height="30" width="40" src="https://antmicro.com/blog/images/systemverilog.svg">
+  <img align="center" alt="PabloGT-sv" height="30" width="40" src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.4/1691914426421/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
   
 ##
