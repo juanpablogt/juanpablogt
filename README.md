@@ -26,10 +26,3 @@ Welcome to my GitHub profile! I'm currently learning Django and Terraform.
 </a>
 
 </div>
-
-<<<<<<< HEAD
-
-Feel free to reach out to me on any of these platforms. I'd love to connect with you!
-
-=======
->>>>>>> 992e896bc395bb670c52c0e7ea9041e4286fd9f5
