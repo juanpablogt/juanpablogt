@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm currently learning Terraform.
   <img align="center" alt="PabloGT-Django" height="30" width="40" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png">
   <img align="center" alt="PabloGT-Cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="PabloGT-sv" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png">
+  
 </div>
   
 ##
@@ -24,7 +25,8 @@ Welcome to my GitHub profile! I'm currently learning Terraform.
   <a href="mailto:juapabgonzalez@utp.edu.co" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-pablo-gonzalez-trejos-941873174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC06zDXq7IkjgDQf-YoW9cKw" target="_blank">
-  <img src= "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
+  <img src= "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/1148311018360016906/1148311018817192028 " target="_blank">
+  <img src= "https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
