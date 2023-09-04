@@ -21,7 +21,12 @@ Welcome to my GitHub profile! I'm currently learning Django and Terraform.
   <a href="https://www.twitch.tv//jgonzaleztr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:juapabgonzalez@utp.edu.co" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-pablo-gonzalez-trejos-941873174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UC06zDXq7IkjgDQf-YoW9cKw" target="_blank">
+  <img src="URL_DEL_ICONO_DE_YOUTUBE" target="_blank">
+</a>
+
 </div>
+
 
 Feel free to reach out to me on any of these platforms. I'd love to connect with you!
 
