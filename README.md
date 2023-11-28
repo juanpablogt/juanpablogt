@@ -1,4 +1,4 @@
-# Hallo, Ich bin Juan Pablo González
+# Hallo, Ich bin Juan Pablo González, ich komme aus kolumbien.
 
 I'm currently learning Terraform.
 
