@@ -24,7 +24,6 @@ I'm currently learning Terraform.
   <a href="https://www.linkedin.com/in/juan-pablo-gonzalez-trejos-941873174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC06zDXq7IkjgDQf-YoW9cKw" target="_blank">
   <img src= "https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/1148311018360016906/1148311018817192028 " target="_blank">
   <img src= "https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
