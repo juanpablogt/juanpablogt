@@ -1,7 +1,5 @@
 # Hallo, Ich bin Juan Pablo González, Ich komme aus kolumbien.
 
-I'm currently learning Terraform.
-
 - 😄 Pronouns: he/him
 
 <div style="display: inline_block"><br>
