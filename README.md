@@ -1,7 +1,5 @@
 # Hallo, Ich bin Juan Pablo González, Ich komme aus kolumbien.
 
-- 😄 Pronouns: he/him
-
 <div style="display: inline_block"><br>
   <img align="center" alt="PabloGT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PabloGT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
