@@ -9,6 +9,8 @@
   <img align="center" alt="PabloGT-Cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="PabloGT-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="PabloGT-NodeJS" height="30" width="40" src="https://nodejs.org/static/images/logo.svg">
+  <img align="center" alt="PabloGT-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  
   
 </div>
   
