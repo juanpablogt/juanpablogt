@@ -1,9 +1,6 @@
 # Hallo, Ich bin Juan Pablo González, Ich komme aus kolumbien.
 
 <div style="display: inline_block">
-  <img align="center" alt="PabloGT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PabloGT-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PabloGT-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PabloGT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PabloGT-Django" height="30" width="40" src="https://img.icons8.com/?size=512&id=qV-JzWYl9dzP&format=png">
   <img align="center" alt="PabloGT-Cpp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
