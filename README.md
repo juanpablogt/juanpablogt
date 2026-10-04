@@ -1,4 +1,4 @@
-# Hallo, Ich bin Juan Pablo González, Ich komme aus kolumbien.
+# Hallo, Ich bin Juan Pablo González, Ich komme aus kolumbien.,,
 
 <div style="display: inline_block">
   <img align="center" alt="PabloGT-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
